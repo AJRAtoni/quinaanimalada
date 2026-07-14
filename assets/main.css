@@ -230,6 +230,12 @@ unloaded-script {
 	right: auto;
 }
 
+#embed02 .lightwidget-widget {
+	border: 0;
+	overflow: hidden;
+	width: 100%;
+}
+
 body.is-loading #main {
 	opacity: 0;
 	transform: translateY(-3rem);
